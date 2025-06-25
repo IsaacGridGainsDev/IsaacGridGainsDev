@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Isaac.
 
-I'm a junior developer and AI builder, focusing on crafting practical backend systems and tools—especially for industries such as real estate, energy, and agriculture.
+I'm a junior developer and AI builder, specializing in crafting practical backend systems and tools, particularly for industries such as real estate, energy, and agriculture.
 
 Currently building:  
 🧠 AI-powered assistants  
@@ -37,7 +37,6 @@ Resilience in progress.
 
 📫 Reach me  
 [LinkedIn](https://www.linkedin.com/in/isaac-akinladejo-425b09162/) · [GitHub](https://github.com/IsaacGridGainsDev/) · [Email](mailto:isaac_akinladejo@hotmail.com)  
-(Real links go here 😉)
 
 <!-- GitHub Stats Section -->
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacgridgainsdev&show_icons=true&theme=radical)
