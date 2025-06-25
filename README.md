@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hey there, I'm Isaac.
 
-<!--
-**IsaacGridGainsDev/IsaacGridGainsDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior developer and AI builder, focusing on crafting practical backend systems and tools—especially for industries such as real estate, energy, and agriculture.
 
-Here are some ideas to get you started:
+Currently building:  
+🧠 AI-powered assistants  
+📦 Python microtools  
+🌍 Data apps with real-world impact  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm all about making tech usable, mindful, and local—one clean feature at a time.
+
+---
+
+📌 **Now Learning**  
+LangGraph · CustomTkinter · CrewAI · CNNs for smart cities
+
+💡 **Latest Experiments**  
+- A real estate AI prompt kit with a GUI  
+- A solar PV plant design tool  
+- A startup research multi-agent system  
+- A legacy recorder with daily reminders
+
+---
+
+### 🛠 Languages & Tools
+Python · HTML5 · CSS3 · Git · GitHub  
+Jupyter · VS Code · CustomTkinter · Blender · Revit
+
+---
+
+🎯 **What Drives Me**  
+Clarity in design.  
+Purpose in code.  
+Resilience in progress.
+
+---
+
+📫 Reach me  
+[LinkedIn](https://www.linkedin.com/in/isaac-akinladejo-425b09162/) · [GitHub](https://github.com/IsaacGridGainsDev/) · [Email](mailto:isaac_akinladejo@hotmail.com)  
+(Real links go here 😉)
+
+<!-- GitHub Stats Section -->
+![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacgridgainsdev&show_icons=true&theme=radical)
+
